@@ -1,4 +1,1 @@
-## Hi there 👋
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Fr3ki/Fr3ki/blob/main/fine.jpg?raw=true');]{x0000}$}
+##RIP CSS Injection Jun 7 2024 - Jun 8 2024
